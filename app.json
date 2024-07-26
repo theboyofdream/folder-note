@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Folder Notes",
+    "slug": "blank",
+    "version": "0.0.1",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": [
+      "expo-font"
+    ],
+    "experiments":{
+      "tsconfigPaths":true
+    }
+  }
+}
